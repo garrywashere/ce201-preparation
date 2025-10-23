@@ -7,13 +7,9 @@ A practice project for learning Django and preparing for the CE201 team project.
 ## Features
 
 -   Add, edit, and delete to-do items
-
 -   Persistent storage using MySQL
-
 -   Fully containerised setup with Docker
-
 -   Export current to-do list to a PDF
-
 -   Modular Django app structure for easy extension
 
 ## Tech Stack
@@ -28,9 +24,6 @@ A practice project for learning Django and preparing for the CE201 team project.
 📚 Learning Goals
 
 -   Understand how Django handles models, views, and templates
-
 -   Learn to integrate MySQL with Django ORM
-
 -   Practice Dockerising a full web app stack
-
 -   Implement file export functionality (PDF generation)
